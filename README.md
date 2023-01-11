@@ -51,12 +51,12 @@
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahidul99&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Sahidul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahidul99&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
   
-  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
+  <img align="center"  alt="Sahidul's's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidul99&show_icons=true" />
 
 
 
