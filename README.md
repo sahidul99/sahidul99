@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook.com/sahidul99]
+
 <a href="https://www.facebook.com/sahidul99/">
     <<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>
 </a>
