@@ -18,7 +18,7 @@
 <br />
 
 <a href="https://codeforces.com/profile/sahid4745">
-   <img src="https://raw.githubusercontent.com/sahidul99/ct-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/sahid4745/ct-stats/main/output/max_rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=sahid4745&label=Profile%20views&color=0e75b6&style=flat" alt="Sahidul Islam" />
 
