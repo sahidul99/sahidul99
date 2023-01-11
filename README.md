@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahidul islam
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C,Data Structure,Slgorithom,Python & Machine Learning
+- 🌱 Coding is one of the best thing that I love to explore
 - 💞️ You can collborate me in any of my field
 - 📫 How to reach me sahid4745@gmail.com
 
